@@ -19,8 +19,7 @@ pipeline {
     }
     stage('Test') {
       steps {
-        // You can add test steps here if necessary
-        // Example: sh 'docker run ...'
+        
       }
     }
     stage('Deploy') {
