@@ -7,7 +7,7 @@ pipeline {
 
         stage('Build docker image') {
             steps {  
-                sh 'docker build -t gokulsm/zen-nginx:$BUILD_NUMBER .'
+                sh 'docker build -t gokulsm/dev:$BUILD_NUMBER .'
             }
         }
         stage('login to dockerhub') {
@@ -17,7 +17,7 @@ pipeline {
         }
         stage('push image') {
             steps{
-                sh 'docker push gokulsm/zen-nginx:$BUILD_NUMBER'
+                sh 'docker push gokulsm/dev:$BUILD_NUMBER'
             }
         }
 }
