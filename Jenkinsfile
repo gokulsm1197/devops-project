@@ -17,7 +17,7 @@ pipeline {
         }
         stage('push image') {
             steps{
-                sh 'docker push gokulsm/dev:$BUILD_NUMBER'
+                sh 'docker push gokulsm/dev'
             }
         }
 }
