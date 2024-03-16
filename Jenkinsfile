@@ -7,7 +7,7 @@ pipeline {
 
         stage('Build docker image') {
             steps {  
-                sh 'docker build -t gokulsm/prod .'
+                sh 'docker build -t sm/main .'
             }
         }
         stage('login to dockerhub') {
@@ -17,7 +17,7 @@ pipeline {
         }
         stage('push image') {
             steps{
-                sh 'docker push gokulsm/dev'
+                sh 'docker push gokulsm/prod'
             }
         }
 }
