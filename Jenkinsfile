@@ -26,9 +26,8 @@ post {
             sh 'docker logout'
         }
     }
+    agent any
       stages {
-        agent any
-        
         stage('ssh-agent'){
             steps{
                 sshagent(['ssh-agent']){
