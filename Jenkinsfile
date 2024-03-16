@@ -17,7 +17,7 @@ pipeline {
         }
         stage('push image') {
             steps{
-                sh 'docker push gokul/prod'
+                sh 'docker push gokulsm/prod:latest'
             }
         }
 }
