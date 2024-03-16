@@ -7,7 +7,7 @@ pipeline {
 
         stage('Build docker image') {
             steps {  
-                sh 'docker build -t sm/dev:$BUILD_NUMBER .'
+                sh 'docker build -t gokulsm/dev:$BUILD_NUMBER .'
             }
         }
         stage('login to dockerhub') {
