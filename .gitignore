@@ -1,0 +1,16 @@
+build/
+dist/
+*.log
+config.ini
+secrets.txt
+.DS_Store
+Thumbs.db
+node_modules/
+vendor/
+.env
+.env.local
+*.class
+*.dll
+*.exe
+.idea/
+.vscode/
