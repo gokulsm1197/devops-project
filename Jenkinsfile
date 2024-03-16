@@ -26,9 +26,9 @@ post {
             sh 'docker logout'
         }
     }
-    stage('trigger siva') {
-        steps {
-            build 'siva'
+        stage('trigger siva') {
+            steps {
+                build 'siva'
+            }
         }
-    }
 }
