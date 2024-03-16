@@ -26,13 +26,4 @@ post {
             sh 'docker logout'
         }
     }
-        stage('ssh-agent'){
-            steps{
-                sshagent(['ssh-agent']){
-                    sh 'ssh -tt -o strictHostKeyChecking=no ubuntu@3.214.210.231 ls'
-                    sh 'ssh -tt -o strictHostKeyChecking=no ubuntu@3.214.210.231 ls'
-                    sh 'ssh -tt -o strictHostKeyChecking=no ubuntu@3.214.210.231 pwd'
-                }
-            }
-        }
 }
