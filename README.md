@@ -8,7 +8,6 @@
 ![Slide8](https://github.com/user-attachments/assets/1dfa0b6c-a2cb-42de-a2b7-980e8c8e78b6)
 ![Slide9](https://github.com/user-attachments/assets/f5535a55-fdc6-4e13-8cbb-157a20817648)
 ![Slide10](https://github.com/user-attachments/assets/9122f634-889c-46cf-b33f-8caac552036b)
-![Slide11](https://github.com/user-attachments/assets/21be281d-6484-47fc-9796-bca4ebd2dfc7)
 ![Slide12](https://github.com/user-attachments/assets/49a08ffb-274b-43ac-b126-ec589086a8d6)
 ![Slide13](https://github.com/user-attachments/assets/2f67fee1-b2a5-4b07-8ff7-dba984835f32)
 ![Slide14](https://github.com/user-attachments/assets/d169afed-5eeb-4093-a095-9e6b886e22fb)
@@ -27,11 +26,8 @@
 ![Slide27](https://github.com/user-attachments/assets/e5fd32bf-c5fa-490c-9f67-d7f58180031d)
 ![Slide28](https://github.com/user-attachments/assets/ed1a25ae-9844-40a9-8e2a-d38ea601e783)
 ![Slide29](https://github.com/user-attachments/assets/1774f3ab-d721-4efa-92ab-bc6195e53ebf)
-![Slide30](https://github.com/user-attachments/assets/5fe97a9f-3bb9-484c-9855-7188e2a47535)
-![Slide31](https://github.com/user-attachments/assets/b7eecd38-6f34-4628-8269-12cb8ba5f05b)
-![Slide32](https://github.com/user-attachments/assets/003855b1-b176-40e9-8be3-ea92a6f8cb55)
+![Slide30](https://github.com/user-attachments/assets/5fe97a9f-3bb9-484c-9855-7188e2a47535)     
 ![Slide33](https://github.com/user-attachments/assets/99304011-a9a7-4279-86bc-f58d143fb73d)
-![Slide34](https://github.com/user-attachments/assets/7fcae336-1ac9-4243-8391-f6f8572c23cb)
 ![Slide35](https://github.com/user-attachments/assets/dee0711c-f567-470c-8f52-308b45e9a880)
 ![Slide36](https://github.com/user-attachments/assets/53353cd1-25d4-46d0-baf6-148a5874d1fc)
 ![Slide37](https://github.com/user-attachments/assets/81983442-e4cf-4061-a190-9c5eb84bbdc5)
@@ -93,4 +89,7 @@
 ![Slide93](https://github.com/user-attachments/assets/98057324-de3b-4602-8ff5-3ed782e13367)
 ![Slide94](https://github.com/user-attachments/assets/f73bd490-8ec4-4c5a-a171-c1d6d715d214)
 ![Slide95](https://github.com/user-attachments/assets/1066cbae-ebb9-4f7a-9b6b-44e26054e8c9)
+
+
+
 
